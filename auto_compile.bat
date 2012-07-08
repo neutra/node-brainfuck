@@ -1,0 +1,1 @@
+coffee -c -o ./lib -w ./coffee
